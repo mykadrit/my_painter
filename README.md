@@ -1,4 +1,4 @@
-# Simple Painter
+# Simple Painter 🖌️:
 #### with using tkinter
 `pip install tkinter`
 
